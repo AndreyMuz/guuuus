@@ -22,7 +22,7 @@ const SwaggerButton = () => {
     <SwaggerButtonContainer>
       <div style={{ textAlign: 'center' }}>
         <SwaggerButtonStyle
-          href="https://goosetrack-backend.onrender.com/api-docs/"
+          href="https://goosetrackback.onrender.com/api-docs/"
           target="_blank"
           rel="noopener noreferrer"
           onMouseEnter={handleMouseEnter}

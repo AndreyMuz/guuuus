@@ -224,7 +224,7 @@ export const RegisterForm = () => {
                 </ButtonText>
               </StyleButton>
               <Or>{i18n.language === 'en' ? 'or' : 'або'}</Or>
-              <BtnGoogle href="https://goosetrack-backend.onrender.com/api/auth/google">
+              <BtnGoogle href="https://goosetrackback.onrender.com/api/auth/google">
                 <GoogleIcon>
                   <use href={`${Icons}#icon-google`}></use>
                 </GoogleIcon>
