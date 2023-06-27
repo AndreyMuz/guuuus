@@ -177,7 +177,7 @@ export const LoginForm = () => {
                 </ButtonText>
               </StyleButton>
               <Or>{i18n.language === 'en' ? 'or' : 'або'}</Or>
-              <BtnGoogle href="https://goosetrackback.onrender.com/api/auth/google">
+              <BtnGoogle href="https://goose-tid1.onrender.com/api/auth/google">
                 <GoogleIcon>
                   <use href={`${Icons}#icon-google`}></use>
                 </GoogleIcon>

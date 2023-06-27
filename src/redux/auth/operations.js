@@ -4,7 +4,7 @@ import { Notify } from 'notiflix';
 
 // axios.defaults.baseURL = 'http://localhost:4000';
 
-axios.defaults.baseURL = 'https://goosetrackback.onrender.com';
+axios.defaults.baseURL = 'https://goose-tid1.onrender.com';
 
 export const setAuthHeader = accessToken => {
   axios.defaults.headers.common.Authorization = `Bearer ${accessToken}`;
